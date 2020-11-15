@@ -1,2 +1,3 @@
 // Testing out bookmarklet
-document.body.style = 'background-color: dodgerblue;';
+console.log('Bookmarklet activated!');
+
